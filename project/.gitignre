@@ -1,0 +1,43 @@
+#Ignore system/user folders
+../
+*.log
+*.tmp
+*.swp
+.DS_Store
+.cache/
+.config/
+AppData
+Documents/
+Downloads/
+.vscode/
+VirtualBox/
+*.bak
+*.class#Ignore system/user folders
+../
+*.log
+*.tmp
+*.swp
+.DS_Store
+.cache/
+.config/
+AppData
+Documents/
+Downloads/
+.vscode/
+VirtualBox/
+*.bak
+*.class#Ignore system/user folders
+../
+*.log
+*.tmp
+*.swp
+.DS_Store
+.cache/
+.config/
+AppData
+Documents/
+Downloads/
+.vscode/
+VirtualBox/
+*.bak
+*.class
